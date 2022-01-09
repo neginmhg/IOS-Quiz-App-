@@ -2,7 +2,7 @@
 
 #  Quiz App
 
-A trivia quiz app built with Swift.
+A trivia quiz app built with Swift using MVC structure.
 
 ## Default Quiz
 
